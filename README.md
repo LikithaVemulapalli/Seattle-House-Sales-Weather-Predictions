@@ -4,6 +4,7 @@ Data Exploration
 For this project, I have considered House sales data of King County, Seattle and Seattle weather datasets from Kaggle.
 
 House Sales: https://www.kaggle.com/harlfoxem/housesalesprediction
+
 Seattle Weather : https://www.kaggle.com/rtatman/did-it-rain-in-seattle-19482017
 
 Steps to execute:
