@@ -8,12 +8,12 @@ House Sales: https://www.kaggle.com/harlfoxem/housesalesprediction
 Seattle Weather : https://www.kaggle.com/rtatman/did-it-rain-in-seattle-19482017
 
 Steps to execute:
-    1. Download the files from the github repository. 
-    2. Unzip the Data_Science_Project1.zip file to get the kc_house_data.csv and Seattle weather data file.
-    3. Place the csv files in data folder and place the data folder in notebooks folder. The notebooks folder should also have ipynb file as well.
-    4. Navigate to terminal and type "jupyter notebook"
-    5. Navigate to the folder where the notebook is placed. 
-    6. From the menu icon cell, click on Run all which will run the whole notebook from the first cell. Verify the results.
+1. Download the files from the github repository. 
+2. Unzip the Data_Science_Project1.zip file to get the kc_house_data.csv and Seattle weather data file.
+3. Place the csv files in data folder and place the data folder in notebooks folder. The notebooks folder should also have ipynb file as well.
+4. Navigate to terminal and type "jupyter notebook"
+5. Navigate to the folder where the notebook is placed. 
+6. From the menu icon cell, click on Run all which will run the whole notebook from the first cell. Verify the results.
     
 
 This project depicts how weather impacts the house sales in Seattle.
